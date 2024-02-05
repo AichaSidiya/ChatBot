@@ -29,7 +29,7 @@ The following repository includes the code of the chatbot that will be used by o
 ## How to run the program
 * Clone the repository to your local machine:
 ```
-git clone https://github.com/AichaSidiya/AirportSatisfactionPrediction.git
+git clone https://github.com/AichaSidiya/ChatBot.git
 ```
 
 * Required Libraries
