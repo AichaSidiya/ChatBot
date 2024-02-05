@@ -1,5 +1,4 @@
-# ChatBot
-## Airport ChatBot
+# Airport ChatBot
 
 <!--Title-->
 ## Purpose
